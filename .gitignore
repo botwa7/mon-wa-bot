@@ -1,0 +1,21 @@
+# Dependans Node.js (Pa janm voye sa sou GitHub)
+node_modules/
+
+# Dosye Sesyon WhatsApp (TROP DANJERE si moun jwenn l)
+auth_info_baileys/
+auth/
+session/
+*.session.json
+
+# Fichye Konfigirasyon Prive (Modpas, API Key, elatriye)
+.env
+.env.local
+*.env
+
+# Fichye Log (Opcyonèl)
+*.log
+npm-debug.log*
+
+# Fichye sistèm (Opcyonèl)
+.DS_Store
+Thumbs.db
